@@ -13,7 +13,7 @@ To use this project, you will need:
 - A SystemVerilog simulator (e.g., ModelSim, XSIM, Vivado).
 - Optional: An FPGA development board for hardware testing.
 1. Clone this repository:
-   git clone https://github.com/your-username/GCD_SystemVerilog.git
+   git clone https://github.com/fahadhussain-1/GCD_SystemVerilog.git
 2. Open the project files in your SystemVerilog simulator.
 3. Run the testbench to verify functionality.
    
